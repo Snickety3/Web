@@ -1,0 +1,46 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.Presentacion {
+    text-align: center;
+    padding: 30px;
+}
+
+#presentacion {
+    font-size: 40px;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 30px;
+}
+
+h3 {
+    font-weight: 400;
+    font-size: 23px;
+}
+
+#contact {
+    border: 0px;
+    font-size: 20px;
+    border-radius: 15px;
+    padding: 20px;
+    background-color: #000;
+    color: #fff;
+    transition: 300ms ease-in-out;
+    overflow: hidden;
+    border: solid 1px #000;
+}
+
+#contact:hover {
+    background-color: #fff;
+    color: #000;
+}
+
