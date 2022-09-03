@@ -3,7 +3,7 @@ const qrCode = new QRCodeStyling({
     height: 300,
     type: "svg",
     data: "https://marteoweb.netlify.app/",
-    image: "",
+    image: "https://marteoweb.netlify.app/proyectos/qr/foto.png",
     dotsOptions: {
         color: "#4267b2",
         type: "rounded"
